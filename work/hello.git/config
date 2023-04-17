@@ -1,6 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = /home/logan/Desktop/Y3 S2/Software Development/git_tutorial/work/hello
